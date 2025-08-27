@@ -1,0 +1,159 @@
+🎯 Yetenek-İlgi Odaklı Mühendislik Rehberi AI Asistanı
+📚 Knowledge Base - Sadece Gerekli Dokümanlar
+✅ MEVCUT (Yeterli):
+- 6 Mühendislik Dalının Ders Planları
+- Her bölümün ders içerikleri ve ağırlıkları
+- Kredi dağılımları ve AKTS bilgileri
+
+🔄 ÇIKARILACAK VERİLER:
+- Her bölümün gerektirdiği temel yetenekler
+- Ders içeriklerinden çıkarılan ilgi alanları
+- Matematik ağırlıkları
+- Programlama gereksinimleri
+- Teorik vs Pratik denge oranları
+🧠 AI Asistanı - Sadece Uyum Değerlendirmesi
+Temel İşlev: "Bu öğrencinin yetenekleri ve ilgileri hangi mühendislik dalıyla en uyumlu?"
+💬 Konuşma Akışı
+Aşama 1: Temel Yetenek Keşfi (10 dakika)
+AI: "Merhaba! Sana en uygun mühendislik dalını bulmak için 
+     yeteneklerini ve ilgi alanlarını öğrenmem gerekiyor.
+
+🧮 Matematik konusunda nasılsın?
+   - Geometri, cebir, analiz hangileri daha kolay geliyor?
+   - Sayılarla çalışmayı seviyor musun?
+   
+💻 Teknoloji ile aranda nasıl bir ilişki var?
+   - Bilgisayar, telefon, elektronik cihazlarla ne kadar ilgileniyorsun?
+   
+🔧 El becerisi ve pratik çalışma:
+   - Bir şeyler kurmayı, söküp takmayı seviyor musun?
+   
+🧩 Problem çözme yaklaşımın:
+   - Karmaşık problemleri nasıl ele alıyorsun?"
+Aşama 2: İlgi Alanı Tespiti (15 dakika)
+AI: "Şimdi ilgi alanlarını keşfedelim. Sana 6 farklı senaryo sunacağım:
+
+📱 Senaryo 1 (Bilgisayar Müh.):
+'Bir mobil uygulama tasarlayıp kodluyorsun. Kullanıcıların nasıl 
+etkileşim kurduğunu analiz edip uygulamayı geliştiriyorsun.'
+→ Bu senaryoyu ilginç buluyor musun? Neden?
+
+📡 Senaryo 2 (Elektronik-Haberleşme):
+'5G antenlerinin sinyallerini optimize edip, şehirdeki internet 
+hızını artıracak sistem tasarlıyorsun.'
+→ Bu tür çalışma ilgini çeker mi?
+
+🔒 Senaryo 3 (Siber Güvenlik):
+'Bir şirketin sistemlerini siber saldırılara karşı koruyacak 
+güvenlik duvarları tasarlıyorsun. Saldırı paternlerini analiz ediyorsun.'
+→ Bu yaklaşım sana cazip geliyor mu?
+
+🤖 Senaryo 4 (AI-Veri):
+'Netflix'in sana nasıl film önerdiğini anlamaya çalışıyorsun. 
+Kullanıcı verilerinden öğrenen algoritma geliştiriyorsun.'
+→ Bu tür analitik çalışma hoşuna gider mi?
+
+⚙️ Senaryo 5 (Kontrol-Otomasyon):
+'Bir fabrikanın robot kollarını programlayıp, üretim hattını 
+optimize ediyorsun. Sistemlerin birbirleriyle haberleşmesini sağlıyorsun.'
+→ Bu endüstriyel yaklaşım ilgini çekiyor mu?
+
+🦾 Senaryo 6 (Robotik):
+'İnsansız araçların trafikte güvenli hareket etmesi için 
+sensör sistemi ve karar algoritması geliştiriyorsun.'
+→ Bu tür gelecek teknolojisi seni heyecanlandırıyor mu?"
+Aşama 3: Yetenek-İlgi Mikrotest (10 dakika)
+AI: "Son olarak kısa yetenekli değerlendirmeler yapalım:
+
+🔢 Mantık Sorusu:
+'A=2, B=4 ise, A×B+A² = ?'
+[Cevap hızı ve doğruluğu değerlendir]
+
+🎨 Pattern Recognition:
+[Görsel pattern göster, eksik parçayı sor]
+
+💡 Yaratıcılık:
+'Bir robot tasarlayacaksın. En önemli 3 özelliği ne olurdu?'
+[Yaratıcılık vs pratiklik dengesi]
+
+🔍 Analitik Düşünce:
+'Okulunuzda öğrenci başarısını artırmak için hangi faktörleri 
+analiz ederdin?'
+[Sistematik yaklaşım]
+📊 Değerlendirme Algoritması
+Her Bölüm İçin Uyum Skoru Hesaplama:
+python# Pseudocode örneği:
+
+def calculate_fit_score(student_profile, engineering_field):
+    
+    # Bilgisayar Mühendisliği için:
+    if engineering_field == "computer":
+        score = (
+            student_profile.programming_interest * 0.4 +
+            student_profile.logical_thinking * 0.3 +
+            student_profile.math_ability * 0.2 +
+            student_profile.problem_solving * 0.1
+        )
+    
+    # Elektronik-Haberleşme için:
+    elif engineering_field == "electronics":
+        score = (
+            student_profile.physics_interest * 0.35 +
+            student_profile.math_ability * 0.25 +
+            student_profile.technical_curiosity * 0.25 +
+            student_profile.hands_on_skills * 0.15
+        )
+    
+    # [Diğer bölümler için benzer hesaplamalar]
+    
+    return score
+🎯 Çıktı Formatı
+AI: "Analiz tamamlandı! İşte senin için uyum sıralaması:
+
+🥇 BİLGİSAYAR MÜHENDİSLİĞİ - %89 Uyum
+   ✅ Güçlü yanların:
+   - Programlama mantığını hızla kavrayabilirsin
+   - Algoritmik düşünce yapın güçlü
+   - Teknoloji trendlerine ilgin var
+   
+   ⚠️ Zorlanabileceğin alanlar:
+   - İleri matematik konuları biraz çaba gerektirebilir
+   - Uzun süreli kod yazma konsantrasyonu geliştirilmeli
+
+🥈 YAPAY ZEKA VE VERİ MÜHENDİSLİĞİ - %76 Uyum
+   ✅ Uyumlu yanların:
+   - Analitik düşünce becerilerin güçlü
+   - Veri analizine ilgi gösteriyorsun
+   
+   ⚠️ Dikkat edilmesi gerekenler:
+   - Yoğun matematik içeriği var
+   - İstatistik bilgisi kritik
+
+🥉 SİBER GÜVENLİK MÜHENDİSLİĞİ - %67 Uyum
+   ✅ Uygun yanların:
+   - Detayci yaklaşımın var
+   - Güvenlik konularına ilgi duyuyorsun
+   
+   ⚠️ Zorlu yanları:
+   - Network bilgisi gerekiyor
+   - Sürekli güncel kalma gerektiriyor
+
+❌ DAHA AZ UYUMLU BÖLÜMLER:
+- Kontrol ve Otomasyon (%45) - Endüstriyel sistemlere ilgi sınırlı
+- Elektronik ve Haberleşme (%38) - Fizik konularında isteksizlik
+- Robotik (%41) - El becerisi ve mekanik ilgi eksikliği
+
+📋 ÖZETİM:
+Sen daha çok 'yazılım ve algoritma' odaklı mühendislik dallarına 
+uygunsun. Pratik/fiziksel sistemlerden ziyade dijital çözümler 
+seni daha çok motive ediyor."
+🔧 Basit Sistem Mimarisi
+INPUT: Öğrenci yanıtları
+   ↓
+PROCESSING: 
+   1. Knowledge base'den bölüm gereksinimleri al
+   2. Öğrenci profili ile eşleştir
+   3. Uyum skorları hesapla
+   4. Ranking oluştur
+   ↓
+OUTPUT: Sıralı öneriler + açıklamalar
