@@ -1,0 +1,577 @@
+# 🎯 GENİŞLETİLMİŞ SORU SETİ - HİBRİT STRATEJİ ANALİZİ
+
+## 📋 PHASE 1: GERÇEK HEDEFİ TESPİT SORLARI (3 soru)
+
+### **SORU A1: Gerçek Hedef Tespiti**
+*"İdeal durumda, puanın her bölüme yetseydi hangi mühendislik dalını seçerdin?"*
+
+**A)** Bilgisayar Mühendisliği - *yazılım geliştirme, programlama*
+**B)** Elektronik ve Haberleşme Müh. - *5G, haberleşme teknolojileri*
+**C)** Kontrol ve Otomasyon Müh. - *endüstriyel otomasyon, robotik kontrol*
+**D)** Siber Güvenlik Müh. - *güvenlik sistemleri, hacking*
+**E)** Yapay Zeka ve Veri Müh. - *AI, machine learning, big data*
+**F)** Robotik ve Otonom Sistemler Müh. - *robotlar, otonom araçlar*
+**G)** Kararsızım/Farketmez
+
+**PUANLAMA:**
+- A seçeneği: BM +5, SGM +2, YZVM +3
+- B seçeneği: EHM +5, KOM +1, SGM +1
+- C seçeneği: KOM +5, EHM +2, ROSM +3
+- D seçeneği: SGM +5, BM +2, YZVM +1
+- E seçeneği: YZVM +5, BM +3, SGM +2, ROSM +2
+- F seçeneği: ROSM +5, KOM +3, YZVM +2
+- G seçeneği: Tüm bölümlere +1
+
+### **SORU A2: Kariyer Vizyonu**
+*"5 yıl sonra hangi işi yapıyor olmak istiyorsun?"*
+
+**A)** Yazılım geliştirici/Software engineer - *mobil app, web, sistem yazılımı*
+**B)** Elektronik sistem tasarımcısı - *RF engineer, telecom engineer*
+**C)** Endüstriyel otomasyon uzmanı - *PLC programmer, kontrol sistemleri*
+**D)** Siber güvenlik uzmanı - *penetration tester, güvenlik analisti*
+**E)** AI/Data scientist - *makine öğrenmesi uzmanı, veri analisti*
+**F)** Robotik mühendisi - *robot tasarımcısı, otonom sistem geliştiricisi*
+**G)** Henüz net değil
+
+**PUANLAMA:**
+- A seçeneği: BM +5, SGM +3, YZVM +2
+- B seçeneği: EHM +5, KOM +2, SGM +1
+- C seçeneği: KOM +5, EHM +1, ROSM +2
+- D seçeneği: SGM +5, BM +2, EHM +1
+- E seçeneği: YZVM +5, BM +2, SGM +2, ROSM +1
+- F seçeneği: ROSM +5, KOM +3, YZVM +1
+- G seçeneği: Tüm bölümlere +1
+
+### **SORU A3: Teknoloji İlgi Alanı**
+*"Hangi teknoloji alanı seni daha çok heyecanlandırır?"*
+
+**A)** Web/mobil uygulamalar, oyun geliştirme - *React, Flutter, Unity*
+**B)** 5G, uydu, haberleşme teknolojileri - *telecom, RF, fiber optik*
+**C)** Fabrika otomasyonu, akıllı sistemler - *Endüstri 4.0, IoT, PLC*
+**D)** Siber güvenlik, hacking, kriptografi - *penetration testing, blockchain*
+**E)** Yapay zeka, machine learning, big data - *ChatGPT, TensorFlow, data mining*
+**F)** Robotlar, otonom araçlar, drone'lar - *Tesla, Boston Dynamics*
+
+**PUANLAMA:**
+- A seçeneği: BM +4, SGM +2, YZVM +1
+- B seçeneği: EHM +5, KOM +1, SGM +1
+- C seçeneği: KOM +4, EHM +2, ROSM +2
+- D seçeneği: SGM +5, BM +1, YZVM +1
+- E seçeneği: YZVM +5, BM +2, SGM +1, ROSM +1
+- F seçeneği: ROSM +5, KOM +2, YZVM +1
+
+---
+
+## 📋 PHASE 2: KLASİK YETENEK ANALİZİ SORLARI (14 soru)
+*Mevcut 17 sorudan dinamik olarak seçilecek - Phase 1 sonucuna göre*
+
+### **Soru Seçim Algoritması:**
+
+#### **Gerçek Hedef BM ise:**
+- Matematik + programlama odaklı sorular seç
+- Mantık + problem çözme sorularını öncelendir
+- Pratik beceri sorularını azalt
+
+#### **Gerçek Hedef EHM ise:**
+- Fizik + matematik sorularını öncelendir  
+- Teknoloji merakı sorularını artır
+- Teorik derinlik sorularını ekle
+
+#### **Gerçek Hedef SGM ise:**
+- Güvenlik + analitik düşünce sorularını seç
+- Risk yönetimi sorularını öncelendir
+- Araştırma yaklaşımı sorularını artır
+
+#### **Gerçek Hedef YZVM ise:**
+- Matematik + veri analizi sorularını öncelendir
+- İstatistik + algoritma sorularını artır
+- AI/ML ilgi sorularını ekle
+
+#### **Gerçek Hedef KOM ise:**
+- Pratik beceri + sistem düşüncesi sorularını seç
+- Endüstriyel otomasyon sorularını öncelendir
+- El becerisi sorularını artır
+
+#### **Gerçek Hedef ROSM ise:**
+- Mekanik + elektronik kombinasyon sorularını seç
+- Sistem entegrasyonu sorularını öncelendir
+- İnovasyon sorularını artır
+
+---
+
+## 📋 PHASE 3: HİBRİT STRATEJİ DEĞERLENDİRME SORLARI (3 soru)
+*Sadece gerçek hedef ≠ mevcut en iyi seçenek durumunda sorulur*
+
+### **SORU C1: Esneklik Testi**
+*"Hedeflediğin bölüme %85 benzer bir bölümden mezun olup, eksik konuları mezuniyet sonrası öğrenmeyi kabul eder misin?"*
+
+**A)** Evet, %85 benzerlik yeterli - stratejik bir yaklaşım
+**B)** Kararsızım, daha fazla bilgi istiyorum
+**C)** Hayır, sadece istediğim bölümden mezun olmak istiyorum
+
+**PUANLAMA:**
+- A seçeneği: Hibrit_Strateji +4, Esneklik +5
+- B seçeneği: Hibrit_Strateji +2, Esneklik +3
+- C seçeneği: Hibrit_Strateji +0, Direkt_Bölüm +5
+
+### **SORU C2: Yatay Geçiş İsteği**
+*"1-2 yıl sonra yatay geçiş yapma ihtimalin var mı?"*
+
+**A)** Evet, kesinlikle yapmayı planlıyorum
+**B)** Belki, şartlar uygun olursa değerlendiririm
+**C)** Hayır, başladığım bölümü bitirmek istiyorum
+
+**PUANLAMA:**
+- A seçeneği: Yatay_Geçiş +5, Hibrit_Strateji +4
+- B seçeneği: Yatay_Geçiş +3, Hibrit_Strateji +2
+- C seçeneği: Yatay_Geçiş +0, Direkt_Bölüm +3
+
+### **SORU C3: Hibrit Kariyer İlgisi**
+*"DevSecOps (Güvenlik+Yazılım) gibi hibrit uzmanlık alanları ilgini çeker mi?"*
+
+**A)** Çok heyecan verici! İki alanda da uzman olmak istiyorum
+**B)** İlginç ama henüz emin değilim
+**C)** Hayır, tek bir alanda derinleşmeyi tercih ederim
+
+**PUANLAMA:**
+- A seçeneği: Hibrit_Kariyer +5, Çok_Yönlülük +4
+- B seçeneği: Hibrit_Kariyer +2, Çok_Yönlülük +2
+- C seçeneği: Hibrit_Kariyer +0, Uzmanlık_Odaklı +4
+
+---
+
+## 🧮 HİBRİT SKORLAMA ALGORİTMASI
+
+### **1. Gerçek Hedef Skoru Hesaplama:**
+```
+Gerçek_Hedef_Skoru = (A1_Puan + A2_Puan + A3_Puan) / 3
+```
+
+### **2. Mevcut Seçenekler Skoru:**
+```
+Mevcut_Skor = Klasik_Sistem_Skoru (14 sorudan)
+```
+
+### **3. Hibrit Strateji Skoru:**
+```python
+if Gerçek_Hedef != En_Yüksek_Mevcut_Seçenek:
+    Hibrit_Skor = (
+        Gerçek_Hedef_Skoru * 0.4 +
+        Benzerlik_Oranı * 0.3 +
+        Geçiş_Kolaylığı * 0.2 +
+        Kariyer_Avantajı * 0.1 +
+        Phase3_Esneklik_Bonusu
+    )
+```
+
+### **4. Kalibre Edilmiş Final Karar Matrisi:**
+
+| Hibrit Skor | Direkt En Yüksek | Karar | Aksiyon |
+|-------------|------------------|-------|---------|
+| **%90+** | Herhangi | **NET HİBRİT STRATEJİ** | Hibrit yol haritası ver |
+| **%85-89** | Herhangi | **KOŞULLU HİBRİT** | Phase 3 esneklik testi → hibrit öner |
+| **%75-84** | **%75+** | **HİBRİT vs DİREKT** | Her iki seçeneği detaylı karşılaştır |
+| **%75-84** | **<%75** | **HİBRİT STRATEJİ** | Hibrit yol tercih et |
+| **<%75** | **%65+** | **DİREKT BÖLÜM** | En yüksek skoru net öner |
+| **<%75** | **%50-64** | **ORTA UYUM** | Alternatif bölümler değerlendir |
+| **<%75** | **<%50** | **DÜŞÜK UYUM** | Mühendislik dışı seçenekler öner |
+
+---
+
+## 📝 SORU SEÇIM TABLOSU
+
+### **Phase 1 Sonucu → Phase 2 Soru Kombinasyonu:**
+
+#### **BM Hedefi Tespit Edilirse:**
+1. Matematik tür tercihi (mantık odaklı)
+2. Problem çözme yaklaşımı  
+3. Programlama ilgisi
+4. Teknoloji problemleri
+5. Çalışma ortamı (lab/ofis)
+6. İş türü (yazılım geliştirme)
+7. Algoritma düşünce
+8. Sistem analizi yaklaşımı
+9. İnovasyon vs pratiklik
+10. Kariyer hedefi
+11. Stres yönetimi
+12. Öğrenme stili
+13. Teknik detay vs genel bakış
+14. Risk alma eğilimi
+
+#### **SGM Hedefi Tespit Edilirse:**
+1. Matematik tür tercihi (analitik odaklı)
+2. Problem çözme yaklaşımı
+3. Güvenlik bilinci
+4. Araştırma yaklaşımı
+5. Detay odaklılık
+6. Risk analizi
+7. Sistem düşüncesi
+8. Sürekli öğrenme
+9. Stres altında çalışma  
+10. Sorumluluk alma
+11. Teknoloji takibi
+12. Etik değerler
+13. Analitik vs sezgisel
+14. Uzun vadeli planlama
+
+---
+
+## 🎯 UYGULAMA NOTU
+
+**Bu soru setini kullanırken:**
+
+1. **Phase 1'i MUTLAKA tamamla** - gerçek hedefi tespit et
+2. **Phase 2'de dinamik seçim yap** - gerçek hedefe göre sorular seç  
+3. **Phase 3'ü sadece gerektiğinde kullan** - uyumsuzluk durumunda
+4. **Her aşamada ara skorlama yap** - sonuca erken varabilirsin
+5. **Knowledge base'den sürekli atıf yap** - benzerlik oranları, geçiş verileri
+
+**Bu genişletilmiş soru seti ile sistem %90+ kesinlikle hibrit stratejiler geliştirebilecek! 🚀**
+
+
+# 🇹🇷 EK SORULAR - MİLLÎ VİZYON VE GERÇEK DÜNYA PROBLEMLERİ DEĞERLENDİRMESİ
+
+## 📋 GENEL BİLGİLER
+
+**Amaç:** Öğrencinin sadece kişisel yetenek uyumunu değil, toplumsal katkı motivasyonunu ve millî vizyon perspektifini de değerlendirmek
+
+**Uygulama Zamanı:** Phase 1.5 (Gerçek hedef tespit edildikten sonra, klasik yetenek analizinden önce)
+
+**Süre:** 4-6 dakika (12 soru)
+
+**Entegrasyon:** Temel skorlama sistemine %25 ağırlıkla dahil edilir
+
+---
+
+## 🛡️ KATEGORI D: JEOPOLİTİK FARKINDALIK VE MİLLÎ GÜVENLİK (3 soru)
+
+### **EK SORU D1: Savaş Riski Farkındalığı ve Teknoloji Önceliği**
+*"Uzmanlar 5 yıl içinde büyük çaplı savaş riskinin arttığını söylüyor. Bu durumda Türkiye'nin teknoloji önceliği ne olmalı?"*
+
+**A)** Savunma teknolojilerini güçlendirip sonra sivile transfer etmek
+**B)** Sivil teknolojileri geliştirip savunmaya uyarlamak  
+**C)** İkisini paralel geliştirip dual-use teknolojilere odaklanmak
+**D)** Teknolojiden çok diplomatik çözümlere odaklanmak
+**E)** Bu konularda yeterli bilgim yok
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +4   +5   +3    +3   +5
+B)       +2   +3   +2   +4    +4   +2
+C)       +4   +5   +4   +5    +4   +4
+D)       +1   +1   +1   +1    +1   +1
+E)       +1   +1   +1   +1    +1   +1
+```
+
+**MANTIK:** A seçeneği savunma önceliği → EHM, SGM, ROSM'e yüksek, C seçeneği dual-use yaklaşımı → tüm mühendislik dallarına balanced
+
+### **EK SORU D2: Savunma-Sivil Entegrasyonu Aciliyet Hissi**
+*"Savaş riskinin arttığı bir dönemde, savunma sanayisi teknolojilerini sivil hayata transfer etmek:"*
+
+**A)** Hayati önem taşıyor - hem güvenlik hem refah için kritik
+**B)** Önemli ama önce savunma ihtiyaçları karşılanmalı
+**C)** Lüks, şu anda savunmaya odaklanmalıyız  
+**D)** Güvenlik riski yaratabilir, dikkatli olunmalı
+**E)** Bu konuda net fikrim yok
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +5   +3   +4    +4   +5
+B)       +4   +3   +4   +3    +3   +3
+C)       +2   +2   +3   +2    +2   +2
+D)       +1   +2   +5   +2    +2   +1
+E)       +1   +1   +1   +1    +1   +1
+```
+
+**MANTIK:** A seçeneği entegrasyon vurgusu → EHM, KOM, ROSM için kritik, D seçeneği güvenlik endişesi → SGM'e yüksek puan
+
+### **EK SORU D3: Kişisel Motivasyon - Millî Güvenlik Katkısı**
+*"Gerilimin arttığı bu dönemde mezun olduktan sonra hangi tür projede çalışmak daha anlamlı?"*
+
+**A)** Direkt savunma sanayisinde - ülkenin güvenliğine katkı
+**B)** Dual-use teknolojilerde - hem savunma hem sivil fayda
+**C)** Sivil teknolojilerde - toplumun refahına odaklanma
+**D)** Barış teknolojilerinde - çatışmaları önleyici çözümler
+**E)** Hangi alan olursa olsun, kaliteli iş yapmak önemli
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +4   +3   +5   +2    +2   +4
+B)       +5   +5   +4   +4    +4   +5
+C)       +2   +2   +2   +3    +3   +2
+D)       +3   +3   +3   +4    +3   +3
+E)       +2   +2   +2   +2    +2   +2
+```
+
+**MANTIK:** B seçeneği dual-use odaklılık → tüm mühendislik dalları için ideal, A seçeneği savunma odaklılık → SGM'e en yüksek
+
+---
+
+## 📊 KATEGORI A: MİLLÎ SORUNLARA YAKLAŞIM (3 soru)
+
+### **EK SORU A1: Kuraklık Krizi Farkındalığı ve Önceliklendirme**
+*"Türkiye 2030'da 'su fakiri' kategorisine düşme riskiyle karşı karşıya. Tarımsal su kullanımımız %75. Bu durumu nasıl değerlendiriyorsun?"*
+
+**A)** Çok acil bir kriz, teknoloji ile mutlaka çözülmeli - *derhal harekete geçmeli*
+**B)** Önemli bir sorun ama uzun vadeli planlama ile halledilebilir
+**C)** Ciddiye alınması gereken ama abartılı sunulan bir durum
+**D)** Bu tür sorunlar her zaman var olmuş, doğal döngülerle çözülür
+**E)** Bu konuda yeterli bilgim yok
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +4   +3   +4    +2   +3
+B)       +3   +5   +2   +3    +1   +2  
+C)       +1   +2   +4   +1    +3   +1
+D)       +0   +1   +1   +0    +1   +0
+E)       +1   +1   +1   +1    +1   +1
+```
+
+**MANTIK:** A seçeneği aciliyet hissi + teknoloji odaklı çözüm gösteriyor → EHM (su teknolojileri), KOM (sulama otomasyonu), YZVM (veri analizi optimizasyonu) için yüksek puan
+
+### **EK SORU A2: Savunma-Sivil Teknoloji Transferi Yaklaşımı**
+*"Bayraktar TB2'nin navigasyon teknolojisi tarım dronlarında, ASELSAN'ın sensör teknolojisi toprak nem ölçümünde kullanılabilir. Bu tür teknoloji transferini nasıl görüyorsun?"*
+
+**A)** Harika bir yaklaşım! Askeri teknoloji sivil hayatı da güçlendirmeli
+**B)** Güzel fikir ama güvenlik risklerini de değerlendirmek gerek
+**C)** Pratik ama askeri teknolojilerin asıl amacından sapması
+**D)** Bu teknolojiler çok pahalı, çiftçi için uygun değil
+**E)** Askeri ve sivil teknolojiler ayrı kalmalı
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +4   +5   +2   +3    +4   +5
+B)       +3   +3   +5   +4    +3   +3
+C)       +2   +1   +3   +1    +2   +1
+D)       +1   +2   +1   +2    +1   +1
+E)       +0   +0   +1   +0    +0   +0
+```
+
+**MANTIK:** A seçeneği yenilikçi yaklaşım + entegrasyon yeteneği → KOM ve ROSM (sistem entegrasyonu), B seçeneği güvenlik bilinci → SGM
+
+### **EK SORU A3: Teknolojik Çözüm Odaklılık vs Sosyal/Politik Çözüm**
+*"Su krizini çözmek için hangi yaklaşım daha etkili?"*
+
+**A)** İleri teknoloji: Akıllı sulama, sensörler, AI optimizasyonu
+**B)** Sistem mühendisliği: Mevcut kaynakları daha iyi yönetmek  
+**C)** Güvenlik odaklı: Su altyapısını korumak ve planlamak
+**D)** Veri odaklı: Büyük veri analiziyle su kulımını optimize etmek
+**E)** Sosyal çözümler: Farkındalık, eğitim, davranış değişikliği
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +3   +2   +3    +3   +4
+B)       +2   +5   +3   +2    +2   +3
+C)       +2   +3   +5   +2    +2   +2
+D)       +3   +2   +3   +5    +4   +2
+E)       +1   +1   +1   +1    +1   +1
+```
+
+**MANTIK:** Her seçenek ilgili bölümün güçlü alanını yansıtıyor
+
+---
+
+## 🔧 KATEGORI B: TEKNOLOJİ TRANSFERİ VE İNOVASYON YAKLAŞIMI (3 soru)
+
+### **EK SORU B1: Maliyetli Teknolojinin Demokratizasyonu**
+*"5 milyon dolarlık Bayraktar TB2'nin yazılım algoritmaları, 5.000 dolarlık tarım dronunda kullanılabilir. Bu 'teknoloji indirgeme' yaklaşımını nasıl buluyorsun?"*
+
+**A)** Mükemmel strateji! Pahalı teknolojinin zekasını herkese açmalı
+**B)** İyi fikir ama kalite kaybı olabilir, dikkatli yapılmalı
+**C)** Risk var, güvenlik açıkları oluşabilir
+**D)** Çok karmaşık, daha basit çözümler bulmalı
+**E)** Bu kadar indirgenme mümkün değil
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +3   +4   +2   +5    +5   +4
+B)       +4   +3   +3   +3    +3   +3
+C)       +2   +2   +5   +2    +2   +2
+D)       +1   +2   +1   +1    +1   +1
+E)       +0   +1   +1   +0    +0   +0
+```
+
+**MANTIK:** A seçeneği inovasyon + erişilebilirlik → YZVM, BM (yazılım odaklı), C seçeneği güvenlik endişesi → SGM
+
+### **EK SORU B2: Hibrit Uzmanlık İlgisi - Gerçek Dünya Odaklı**
+*"Savunma-Tarım Teknoloji Uzmanı: Askeri sensör teknolojisini tarımsal sulama sistemlerine uyarlayan mühendis. Bu tür hibrit kariyer ilgini çeker mi?"*
+
+**A)** Çok heyecan verici! İki alanın da uzmanı olmak istiyorum
+**B)** İlginç ama önce bir alanda uzmanlaşıp sonra genişletmek daha iyi
+**C)** Güzel ama çok özelleşmiş bir alan, iş imkanı sınırlı olabilir
+**D)** İki farklı alanda çalışmak odaklanmayı zorlaştırır
+**E)** Hibrit kariyerden ziyade tek alanda derinleşmeyi tercih ederim
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +5   +3   +3    +3   +5
+B)       +3   +3   +4   +4    +4   +3
+C)       +2   +2   +2   +2    +2   +2
+D)       +1   +1   +1   +1    +1   +1
+E)       +1   +1   +2   +1    +1   +1
+```
+
+**MANTIK:** A seçeneği çok disiplinli yaklaşım → EHM, KOM, ROSM (sistem entegrasyonu gerektiren)
+
+### **EK SORU B3: Millî Teknoloji Vizyonu**
+*"Türkiye'nin savunma sanayisi başarısı (dünyada 3. sıra) hangi sivil alanda en çok etkili olmalı?"*
+
+**A)** Tarım ve gıda güvenliği - su krizi, akıllı tarım sistemleri
+**B)** Enerji - akıllı şebekeler, otomasyon sistemleri
+**C)** Siber güvenlik - kritik altyapı koruması
+**D)** Yapay zeka ve büyük veri - karar destek sistemleri
+**E)** Ulaştırma - otonom araçlar, akıllı trafik sistemleri
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +4   +2   +3    +2   +3
+B)       +4   +5   +2   +2    +2   +3
+C)       +2   +3   +5   +3    +4   +2
+D)       +3   +2   +3   +5    +4   +3
+E)       +2   +3   +2   +2    +3   +5
+```
+
+**MANTIK:** Her seçenek farklı bölümün uzmanlık alanını yansıtıyor
+
+---
+
+## 💡 KATEGORI C: GERÇEK DÜNYA ETKİ MOTIVASYONU (3 soru)
+
+### **EK SORU C1: Sosyal Etki Motivasyonu**
+*"Mezun olduktan sonra hangi tür projelerde çalışmak seni daha çok tatmin eder?"*
+
+**A)** Milyonlarca çiftçinin su tasarrufu yapmasını sağlayan sistemler
+**B)** Ülkenin enerji verimliliğini artıran akıllı fabrika sistemleri
+**C)** Millî güvenliği sağlayan siber savunma sistemleri
+**D)** Hastalıkları erken teşhis eden AI sistemleri
+**E)** İnsanların günlük hayatını kolaylaştıran tüketici teknolojileri
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +4   +2   +4    +2   +3
+B)       +3   +5   +2   +2    +2   +4
+C)       +2   +3   +5   +3    +4   +2
+D)       +3   +2   +3   +5    +3   +3
+E)       +2   +2   +2   +2    +5   +2
+```
+
+### **EK SORU C2: Problem Çözme Ölçeği Tercihi**
+*"Hangi ölçekteki problemleri çözmek daha heyecan verici?"*
+
+**A)** Ülke çapında: Türkiye'nin su krizini çözmek
+**B)** Bölgesel: Konya Ovası'nın verimli sulanması
+**C)** Kurumsal: Fabrikaların otomasyon sistemleri
+**D)** Bireysel: Çiftçinin akıllı sulama sistemi
+**E)** Küresel: Dünya çapında kullanılacak teknolojiler
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +4   +3   +4   +5    +3   +3
+B)       +5   +4   +3   +4    +2   +3
+C)       +3   +5   +3   +2    +2   +4
+D)       +2   +3   +2   +3    +4   +2
+E)       +3   +2   +3   +3    +5   +4
+```
+
+### **EK SORU C3: Teknolojik Gelişim Yaklaşımı**
+*"ASELSAN'ın termal görüntüleme teknolojisi gibi bir askeri teknolojin var. Bunu sivil kulıma nasıl uyarlarsın?"*
+
+**A)** Adım adım indirgerim: Maliyeti düşürüp çiftçinin kullanabileceği hale getiririm
+**B)** Sistem entegrasyonu: Mevcut tarım makineleriyle entegre ederim
+**C)** Güvenlik odaklı: Veri güvenliğini sağlayarak transfer ederim
+**D)** Veri analizi: Toplanan verileri AI ile analiz edip optimize ederim
+**E)** Kullanıcı dostu: Basit arayüzlerle herkesin kullanabileceği hale getiririm
+
+**PUANLAMA MATRİSİ:**
+```
+         EHM  KOM  SGM  YZVM  BM   ROSM
+A)       +5   +3   +2   +3    +3   +3
+B)       +3   +5   +2   +2    +2   +4
+C)       +2   +3   +5   +3    +3   +2
+D)       +3   +2   +3   +5    +4   +3
+E)       +2   +2   +2   +2    +5   +2
+```
+
+---
+
+## 📊 SKORLAMA REFERANSI
+
+**Not:** Bu sorularin detaylı skorlama algoritması **"Kapsamlı Skorlama Algoritması"** dokümanında yer almaktadır.
+
+### **Kategorik Ağırlıklar:**
+- **Kategori A**: Millî Sorunlara Yaklaşım (30% ağırlık)
+- **Kategori B**: Teknoloji Transferi Yaklaşımı (30% ağırlık)  
+- **Kategori C**: Gerçek Dünya Etki Motivasyonu (25% ağırlık)
+- **Kategori D**: Jeopolitik Farkındalık ve Millî Güvenlik (15% ağırlık)
+
+### **Millî Vizyon Seviyeleri:**
+- **%85+**: "Vatansever Teknoloji Lideri" 
+- **%70-84**: "Bilinçli Teknoloji Uzmanı"
+- **%55-69**: "Potansiyel Sosyal Etki"
+- **<%55**: "Bireysel Odaklı Kariyer"
+
+---
+
+## 📊 UYGULAMA REHBERİ
+
+### **Phase 1.5 Entegrasyonu:**
+1. **Gerçek hedef tespit** edildikten sonra uygulanır
+2. **12 soru toplu** olarak sorulur (kategori ayırımı yapılmaz)
+3. **4-6 dakika** içinde tamamlanır
+4. **Ara skorlama** yapılır, temel skorla birleştirilir
+
+### **Geçiş Cümlesi Örnekleri:**
+*"Harika! Gerçek hedefini tespit ettik. Şimdi de ülkeye ve topluma katkı vizyonunu, ayrıca güncel jeopolitik gelişmelere bakış açını değerlendirelim. Bu sorular Türkiye'nin gerçek problemlerine ve güvenlik ihtiyaçlarına yaklaşımını anlamamı sağlayacak."*
+
+### **Kategori D İçin Özel Geçiş:**
+*"Son üç soru güncel güvenlik ortamıyla ilgili. İstersen bu soruları atlayabilirsin, ancak cevaplaman daha kapsamlı bir değerlendirme yapmamı sağlar."*
+
+### **Sonuç Raporuna Yansıma:**
+```
+🇹🇷 MİLLÎ VİZYON DEĞERLENDİRMEN: %XX
+
+📊 KATEGORIK SONUÇLAR:
+• Millî Sorunlara Yaklaşım: %XX
+• Teknoloji Transfer İlgisi: %XX  
+• Sosyal Etki Motivasyonu: %XX
+• Jeopolitik Farkındalık: %XX
+
+🎯 TOPLUMSAL KATKI POTANSİYELİN:
+"[Seçilen bölüm] alanında Türkiye'nin su krizi gibi kritik 
+sorunlarına teknolojik çözümler geliştirebilir, savunma 
+sanayisi teknolojilerini sivil kullanıma aktarabilirsin."
+
+🛡️ MİLLÎ GÜVENLİK KATKIN:
+"Gerilimin arttığı bu dönemde [seçilen bölüm] ile Türkiye'nin 
+teknolojik savunma kapasitesini güçlendirebilir, dual-use 
+teknolojiler geliştirerek hem güvenlik hem refaha katkıda bulunabilirsin."
+
+💡 GERÇEK DÜNYA PROJELERİN:
+- [Bölüme özel somut proje örnekleri]
+- [Teknoloji transfer fırsatları]
+- [Millî teknoloji katkı alanları]
+- [Savunma-sivil dual-use projeleri]
+```
+
+---
+
+## 🎯 KRİTİK NOTLAR
+
+1. **Bu sorular zorunlu değildir** - öğrenci "geçmek istiyorum" derse atlabilir
+2. **Millî vizyon skoru düşük olsa bile** bölüm önerisi yapılır, sadece bonus verilmez
+3. **Kültürel hassasiyet** - sorular Türk gençlerinin değer sistemine uygun hazırlanmıştır
+4. **Objektif kalma** - hiçbir siyasi görüş kayırılmaz, sadece teknolojik çözüm odaklılık ölçülür
+
+**Bu ek soru seti, rehberlik sistemimizi kişisel uyumdan toplumsal katkı odaklı kariyer rehberliğine dönüştürecektir.**
+
