@@ -1,0 +1,278 @@
+Knowledge Base Mühendislikleri İçin Özelleştirilmiş Yetenek Değerlendirme Sistemi
+1. Bilgisayar Mühendisliği (BM) - Özel Assessment Kriterleri
+Temel Yetenek Testleri:
+
+Programming Fundamentals (40% ağırlık)
+
+C/C++ programming logic
+Data structures implementation
+Algorithm analysis ve complexity
+Object-oriented programming concepts
+
+
+Mathematical & Logical Reasoning (25% ağırlık)
+
+Discrete mathematics
+Boolean algebra
+Binary arithmetic
+Pattern recognition
+
+
+System Thinking (20% ağırlık)
+
+Computer organization concepts
+Digital logic understanding
+Problem decomposition ability
+
+
+Technical Aptitude (15% ağırlık)
+
+Debugging capability
+Code optimization mindset
+Software engineering principles
+
+
+
+Mülakat Özel Soruları:
+
+"Debug this code segment"
+"Design a simple algorithm"
+"Explain computer architecture"
+
+
+2. Elektronik ve Haberleşme Mühendisliği (EHM) - Özel Assessment Kriterleri
+Temel Yetenek Testleri:
+
+Circuit Analysis (35% ağırlık)
+
+Analog circuit understanding
+Digital electronics basics
+Signal processing concepts
+Electromagnetic theory
+
+
+Mathematical Foundation (25% ağırlık)
+
+Complex numbers
+Fourier transforms
+Differential equations
+Linear algebra
+
+
+Technical Problem Solving (25% ağırlık)
+
+Circuit design logic
+Signal analysis
+Frequency domain thinking
+
+
+Communication Systems (15% ağırlık)
+
+Modulation concepts
+Network protocols
+RF principles
+
+
+
+Praktik Testler:
+
+"Analyze this circuit"
+"Design a simple amplifier"
+"Explain signal modulation"
+
+
+3. Siber Güvenlik Mühendisliği (SGM) - Özel Assessment Kriterleri
+Temel Yetenek Testleri:
+
+Security Thinking (30% ağırlık)
+
+Threat analysis mindset
+Risk assessment capability
+Attack vector understanding
+Defensive strategy planning
+
+
+Technical Skills (30% ağırlık)
+
+Network security protocols
+Cryptography basics
+System vulnerabilities
+Ethical hacking concepts
+
+
+Programming & Scripting (25% ağırlık)
+
+Python for security
+Bash scripting
+Network programming
+Automation skills
+
+
+Analytical Reasoning (15% ağırlık)
+
+Pattern detection
+Logical reasoning
+Incident response
+
+
+
+Senario-Based Tests:
+
+"How would you secure this network?"
+"Identify vulnerabilities in this code"
+"Design a security protocol"
+
+
+4. Yapay Zeka ve Veri Mühendisliği (YZVM) - Özel Assessment Kriterleri
+Temel Yetenek Testleri:
+
+Mathematical Foundation (35% ağırlık)
+
+Statistics & probability
+Linear algebra
+Calculus
+Optimization theory
+
+
+Programming & Data Skills (30% ağırlık)
+
+Python mastery
+Data manipulation (Pandas, NumPy)
+SQL database skills
+Algorithm implementation
+
+
+Machine Learning Concepts (25% ağırlık)
+
+Supervised/unsupervised learning
+Model evaluation
+Feature engineering
+Deep learning basics
+
+
+Problem-Solving Approach (10% ağırlık)
+
+Data-driven thinking
+Experimental design
+Result interpretation
+
+
+
+Hands-on Assessments:
+
+"Analyze this dataset"
+"Implement a simple ML model"
+"Design a data pipeline"
+
+
+5. Kontrol ve Otomasyon Mühendisliği (KOM) - Özel Assessment Kriterleri
+Temel Yetenek Testleri:
+
+Control Systems Theory (30% ağırlık)
+
+Feedback control concepts
+System stability analysis
+Transfer functions
+State space methods
+
+
+Programming & Automation (25% ağırlık)
+
+PLC programming (Ladder Logic)
+SCADA systems
+HMI design
+Industrial protocols
+
+
+Electrical & Mechanical Systems (25% ağırlık)
+
+Motor control
+Sensor technology
+Actuator systems
+Power electronics
+
+
+Industrial Application (20% ağırlık)
+
+Process control
+Robotics basics
+Safety systems
+Manufacturing concepts
+
+
+
+Practical Evaluations:
+
+"Program this PLC logic"
+"Design a control system"
+"Troubleshoot this automation"
+
+
+6. Robotik ve Otonom Sistemleri Mühendisliği (ROSM) - Özel Assessment Kriterleri
+Temel Yetenek Testleri:
+
+Robotics Fundamentals (30% ağırlık)
+
+Kinematics & dynamics
+Path planning
+Robot programming
+Sensor integration
+
+
+Programming & AI (25% ağırlık)
+
+Python/C++ for robotics
+ROS (Robot Operating System)
+Machine learning for robots
+Computer vision
+
+
+Mathematical Modeling (25% ağırlık)
+
+Linear algebra
+Probability theory
+Control theory
+Signal processing
+
+
+System Integration (20% ağırlık)
+
+Hardware-software interface
+Multi-sensor fusion
+Real-time systems
+Safety protocols
+
+
+
+
+🎯 Entegre Değerlendirme Metodolojisi
+Aşama 1: Online Pre-Assessment (60 dakika)
+
+Bölüm-spesifik aptitude testi
+Temel matematik yetkinliği
+Programlama logic testi
+Problem çözme senaryoları
+
+Aşama 2: Hands-on Technical Test (90 dakika)
+
+Bölüme özgü praktik problemler
+Kod yazma/devre analizi/veri analizi
+Real-world scenario çözümü
+
+Aşama 3: Yapılandırılmış Mülakat (75 dakika)
+
+Technical deep-dive sorular
+Project-based discussions
+Problem-solving approach
+Career motivation assessment
+
+Aşama 4: Personality & Interest Profiling (45 dakika)
+
+Holland Code (RIASEC) assessment
+Big Five personality test
+Work style preferences
+Learning approach evaluation
+
+🔍 Bölüm-Spesifik Başarı Kriterleri
+Mühendislik DalıMinimum Başarı SkoruKritik Yetenek AlanlarıAğırlık DağılımıBilgisayar75/100Programming, Logic, Math40-25-20-15Elektronik70/100Circuits, Math, Signals35-25-25-15Siber Güvenlik80/100Security, Technical, Programming30-30-25-15AI & Veri85/100Math, Programming, ML35-30-25-10Kontrol70/100Control, Programming, Systems30-25-25-20Robotik75/100Robotics, Programming, Math30-25-25-20
+Bu sistemle her mühendislik dalının kendine özgü yetenek ve ilgi alanlarını doğru bir şekilde değerlendirerek, öğrencilere en uygun bölümü önerebiliriz.
