@@ -1,0 +1,318 @@
+# Mühendislik Dalları Yetenek-İlgi Profil Analizi
+
+## 1. BİLGİSAYAR MÜHENDİSLİĞİ (BM)
+
+### Gerekli Temel Yetenekler
+- **Mantıksal Düşünce (35%)**: Algoritma tasarımı, problem çözme
+- **Matematiksel Yetenek (25%)**: Diskret matematik, linear cebir
+- **Sistem Düşüncesi (20%)**: Büyük resmi görme, modüler yaklaşım
+- **Yaratıcılık (20%)**: Yenilikçi çözümler, optimizasyon
+
+### İlgi Alanları (Ders İçeriklerinden)
+- **Programlama ve Algoritma (40%)**
+  - Veri yapıları, algoritma analizi
+  - Nesne yönelimli programlama
+  - Yazılım geliştirme metodolojileri
+
+- **Sistem ve Donanım (25%)**
+  - Bilgisayar mimarisi
+  - İşletim sistemleri
+  - Mikroişlemci sistemleri
+
+- **Teknoloji ve İnovasyon (20%)**
+  - Yapay zeka temelleri
+  - Veritabanı sistemleri
+  - Ağ teknolojileri
+
+- **Matematik ve Analiz (15%)**
+  - Sayısal analiz
+  - İstatistik ve olasılık
+  - Diskret matematik
+
+### Matematik Ağırlığı
+- **Toplam Kredi İçindeki Oranı**: 22%
+- **Zorluk Seviyesi**: Orta-İleri
+- **Ana Konular**: Diskret matematik, Linear cebir, İstatistik, Sayısal analiz
+
+### Programlama Gereksinimleri
+- **Başlangıç Seviyesi**: C programlama (zorunlu)
+- **İleri Seviye**: Java, Python, C++
+- **Uzmanlık**: Yazılım mimarisi, algoritma optimizasyonu
+- **Pratik Projeler**: 4 yarıyıl tasarım projesi
+
+### Teorik vs Pratik Denge
+- **Teorik %60**: Matematiksel temel, algoritma teorisi, bilgisayar bilimi
+- **Pratik %40**: Laboratuvarlar, proje çalışmaları, yazılım geliştirme
+
+---
+
+## 2. ELEKTRONİK VE HABERLEŞME MÜHENDİSLİĞİ (EHM)
+
+### Gerekli Temel Yetenekler
+- **Matematiksel-Fiziksel Anlayış (40%)**: Karmaşık sayılar, dalgalar, frekans
+- **Analitik Düşünce (25%)**: Sinyal analizi, devre çözümlemesi
+- **Sistem Bakışı (20%)**: Haberleşme sistemleri entegrasyonu
+- **Detay Odaklılık (15%)**: Elektronik devre tasarımı
+
+### İlgi Alanları (Ders İçeriklerinden)
+- **Elektronik Devreler (35%)**
+  - Analog/dijital elektronik
+  - Elektromanyetik teori
+  - Devre analizi ve tasarımı
+
+- **Haberleşme Sistemleri (30%)**
+  - Sinyal işleme
+  - Haberleşme teorisi
+  - RF ve mikrodalga teknikleri
+
+- **Matematik ve Fizik (25%)**
+  - İleri matematik (Fourier, Laplace)
+  - Elektromanyetik alan teorisi
+  - Olasılık ve istatistik
+
+- **Laboratuvar ve Uygulama (10%)**
+  - Elektronik laboratuvarları
+  - Ölçüm teknikleri
+  - Prototip geliştirme
+
+### Matematik Ağırlığı
+- **Toplam Kredi İçindeki Oranı**: 28%
+- **Zorluk Seviyesi**: İleri
+- **Ana Konular**: Karmaşık analiz, Fourier dönüşümü, Diferansiyel denklemler, Linear cebir
+
+### Programlama Gereksinimleri
+- **Başlangıç**: C programlama, MATLAB
+- **Orta Seviye**: Python (sinyal işleme)
+- **Özel**: VHDL/Verilog (donanım tanımlama)
+- **Simulation**: SPICE, elektronik simülasyon araçları
+
+### Teorik vs Pratik Denge
+- **Teorik %70**: Matematik, fizik, haberleşme teorisi
+- **Pratik %30**: Laboratuvarlar, devre tasarımı, ölçüm
+
+---
+
+## 3. SİBER GÜVENLİK MÜHENDİSLİĞİ (SGM)
+
+### Gerekli Temel Yetenekler
+- **Analitik Düşünce (30%)**: Tehdit analizi, güvenlik açığı tespiti
+- **Sistematik Yaklaşım (25%)**: Güvenlik protokolleri, süreç yönetimi
+- **Teknik Yetenek (25%)**: Ağ teknolojileri, kriptografi
+- **Sürekli Öğrenme (20%)**: Gelişen tehditler, yeni teknolojiler
+
+### İlgi Alanları (Ders İçeriklerinden)
+- **Güvenlik Sistemleri (40%)**
+  - Siber güvenlik esasları
+  - Kriptografi ve uygulamaları
+  - Ağ güvenliği protokolleri
+
+- **Bilgisayar Sistemleri (30%)**
+  - İşletim sistemleri güvenliği
+  - Veritabanı güvenliği
+  - Güvenli programlama
+
+- **Risk ve Analiz (20%)**
+  - Güvenlik denetimi
+  - Adli bilişim
+  - Güvenlik yönetimi
+
+- **Teknoloji ve Araçlar (10%)**
+  - Penetrasyon test araçları
+  - Güvenlik yazılımları
+  - Bulut güvenliği
+
+### Matematik Ağırlığı
+- **Toplam Kredi İçindeki Oranı**: 20%
+- **Zorluk Seviyesi**: Orta
+- **Ana Konular**: Diskret matematik, Kriptografi matematiği, İstatistik, Sayı teorisi
+
+### Programlama Gereksinimleri
+- **Temel**: C, Python
+- **Güvenlik Odaklı**: Scripting (Bash, PowerShell)
+- **Network**: Ağ programlama
+- **Özel**: Güvenlik araçları, penetrasyon test scripts
+
+### Teorik vs Pratik Denge
+- **Teorik %50**: Güvenlik teorisi, kriptografi, risk yönetimi
+- **Pratik %50**: Laboratuvarlar, güvenlik araçları, simülasyonlar
+
+---
+
+## 4. YAPAY ZEKA VE VERİ MÜHENDİSLİĞİ (YZVM)
+
+### Gerekli Temel Yetenekler
+- **Matematiksel Yetenek (40%)**: İstatistik, linear cebir, optimizasyon
+- **Analitik Düşünce (25%)**: Veri analizi, pattern recognition
+- **Programlama Yetisi (20%)**: Python, R, veri manipülasyonu
+- **Araştırma Yaklaşımı (15%)**: Deneysel tasarım, hipotez testi
+
+### İlgi Alanları (Ders İçeriklerinden)
+- **Makine Öğrenmesi ve AI (40%)**
+  - Derin öğrenme
+  - Doğal dil işleme
+  - Bilgisayarlı görü
+  - Robotik uygulamaları
+
+- **Veri Bilimi (35%)**
+  - Veri madenciliği
+  - Büyük veri analitikleri
+  - Veri mühendisliği
+  - İstatistiksel analiz
+
+- **Matematik ve Algoritma (20%)**
+  - Optimizasyon teorisi
+  - Algoritma analizi
+  - Olasılık ve istatistik
+  - Linear cebir
+
+- **Uygulamalar (5%)**
+  - AI etik ve hukuk
+  - Endüstriyel uygulamalar
+
+### Matematik Ağırlığı
+- **Toplam Kredi İçindeki Oranı**: 32%
+- **Zorluk Seviyesi**: İleri
+- **Ana Konular**: İstatistik, Linear cebir, Calculus, Optimizasyon, Olasılık teorisi
+
+### Programlama Gereksinimleri
+- **Temel**: Python (zorunlu), R
+- **Veri Bilimi**: Pandas, NumPy, Scikit-learn
+- **Deep Learning**: TensorFlow, PyTorch
+- **Big Data**: Spark, Hadoop ecosystems
+- **Database**: SQL, NoSQL
+
+### Teorik vs Pratik Denge
+- **Teorik %55**: Matematik, algoritma teorisi, ML teorisi
+- **Pratik %45**: Veri projleri, model geliştirme, uygulamalar
+
+---
+
+## 5. KONTROL VE OTOMASYON MÜHENDİSLİĞİ (KOM)
+
+### Gerekli Temel Yetenekler
+- **Sistem Düşüncesi (30%)**: Kontrol döngüleri, feedback sistemleri
+- **Matematik-Fizik Anlayışı (25%)**: Diferansiyel denklemler, dinamik sistemler
+- **Pratik Uygulama (25%)**: PLC programlama, endüstriyel sistemler
+- **Problem Çözme (20%)**: Troubleshooting, optimizasyon
+
+### İlgi Alanları (Ders İçeriklerinden)
+- **Kontrol Sistemleri (35%)**
+  - Feedback kontrol teorisi
+  - PID kontrol
+  - Durum uzayı yöntemleri
+  - Sistem kararlılığı
+
+- **Endüstriyel Otomasyon (30%)**
+  - PLC programlama
+  - SCADA sistemleri
+  - Endüstriyel haberleşme
+  - Process kontrolü
+
+- **Elektrik-Elektronik (25%)**
+  - Güç elektroniği
+  - Motor kontrol sistemleri
+  - Sensör teknolojileri
+  - Akıllı sistemler
+
+- **Robotik ve Hareket (10%)**
+  - Robotik temelleri
+  - Motion control
+  - Servo sistemler
+
+### Matematik Ağırlığı
+- **Toplam Kredi İçindeki Oranı**: 25%
+- **Zorluk Seviyesi**: Orta-İleri
+- **Ana Konular**: Diferansiyel denklemler, Linear cebir, Laplace dönüşümü, İstatistik
+
+### Programlama Gereksinimleri
+- **Endüstriyel**: PLC programlama (Ladder Logic)
+- **Simülasyon**: MATLAB/Simulink
+- **Genel**: C, Python
+- **Özel**: SCADA programlama, HMI tasarımı
+
+### Teorik vs Pratik Denge
+- **Teorik %45**: Kontrol teorisi, matematik, sistem analizi
+- **Pratik %55**: Laboratuvarlar, PLC, endüstriyel projeler
+
+---
+
+## 6. ROBOTİK VE OTONOM SİSTEMLERİ MÜHENDİSLİĞİ (ROSM)
+
+### Gerekli Temel Yetenekler
+- **Multidisipliner Düşünce (30%)**: Mekanik, elektronik, yazılım entegrasyonu
+- **Matematiksel Modelleme (25%)**: Kinematik, dinamik, optimizasyon
+- **Programlama ve AI (25%)**: Robot programlama, yapay zeka
+- **Sistem Entegrasyonu (20%)**: Sensör fusion, real-time sistemler
+
+### İlgi Alanları (Ders İçeriklerinden)
+- **Robotik Sistemler (40%)**
+  - Robot kinematiği ve dinamiği
+  - Path planning
+  - Robot kontrolü
+  - Manipülatör tasarımı
+
+- **Yapay Zeka ve Algılama (30%)**
+  - Machine learning for robotics
+  - Computer vision
+  - Sensor fusion
+  - Autonomous navigation
+
+- **Kontrol ve Elektronik (20%)**
+  - Real-time control
+  - Embedded systems
+  - Motor control
+  - Power management
+
+- **Matematik ve Modelleme (10%)**
+  - Linear algebra
+  - Differential equations
+  - Optimization
+  - Probability theory
+
+### Matematik Ağırlığı
+- **Toplam Kredi İçindeki Oranı**: 30%
+- **Zorluk Seviyesi**: İleri
+- **Ana Konular**: Linear cebir, Diferansiyel denklemler, Optimizasyon, Olasılık
+
+### Programlama Gereksinimleri
+- **Robot Programming**: ROS (Robot Operating System)
+- **AI/ML**: Python, TensorFlow/PyTorch
+- **Embedded**: C/C++, Real-time programming
+- **Simulation**: Gazebo, MATLAB/Simulink
+
+### Teorik vs Pratik Denge
+- **Teorik %50**: Matematik, kontrol teorisi, AI algoritmaları
+- **Pratik %50**: Robot programming, laboratoriy çalışmaları, projeler
+
+---
+
+## KARŞILAŞTIRMALI ÖZET
+
+### Matematik Zorluk Sıralaması
+1. **YZVM** - 32% (En Yoğun)
+2. **ROSM** - 30% (İleri Seviye)
+3. **EHM** - 28% (Karmaşık Analiz)
+4. **KOM** - 25% (Uygulamalı)
+5. **BM** - 22% (Diskret Ağırlıklı)
+6. **SGM** - 20% (En Az)
+
+### Programlama Yoğunluğu Sıralaması
+1. **BM** - En Yoğun (Yazılım Odaklı)
+2. **YZVM** - Yoğun (Veri Bilimi)
+3. **ROSM** - Yoğun (AI + Embedded)
+4. **SGM** - Orta (Güvenlik Odaklı)
+5. **KOM** - Orta (PLC + Simülasyon)
+6. **EHM** - Az (Simülasyon Ağırlıklı)
+
+### Teorik/Pratik Denge
+- **En Teorik**: EHM (%70 teorik)
+- **En Dengeli**: SGM (%50-50)
+- **En Pratik**: KOM (%55 pratik)
+
+### Ana İlgi Alanları Özeti
+- **BM**: Yazılım + Algoritma
+- **EHM**: Fizik + Elektronik
+- **SGM**: Güvenlik + Sistem
+- **YZVM**: Matematik + Veri
+- **KOM**: Endüstri + Kontrol
+- **ROSM**: Robot + AI
