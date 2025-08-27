@@ -1,6 +1,6 @@
 # 🎓 Meslek Seçimi ve AI Dirençlilik Analiz Sistemi v5.0
 
-## Sayısal Bölüm Mezunları için Evidence-Based Kariyer Rehberliği + İnteraktif YZ Değerlendirme Platformu
+## Sayısal Bölüm Mezunları için Evidence-Based Kariyer Rehberliği + İnteraktif YZ Değerlendirme Platformu 
 
 ## 🚀 PROJE HAKKINDA
 
